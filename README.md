@@ -1,4 +1,12 @@
 # theta_star
+ This program compares the performance of A* and Theta*, in regular grid scenario. <br>
+ —— A*，disallow overpass the corner of Non‑passable grid;  
+ —— Theta*, disallow overpass the corner of Non‑passable grid;  
+ You can manully set non-paasable grids, or directly load maps stored in ../mapfiles, and you can save the map you set to file.    
+ You can manully set the start grid and the end grid.   
+ When you press [A*], it will execute A* algorithm, and draw the result on the map.    
+ When you press [Theta*], it will execute Theta* algorithm, and draw the result on the map.  
+ 
 ## introduction
 Optimal path finding algorithm using theta*, which can vaoid the searching direction limitation in A* in regular grids.
 | description| values       |
