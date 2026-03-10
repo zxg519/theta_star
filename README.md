@@ -1,5 +1,5 @@
 # theta_star
-
+## introduction
 optimal path finding algorithm using theta*, which can vaoid the searching limitation in A* in regular grid.
 I used easyX to draw picture in this program.
 
@@ -14,6 +14,14 @@ xgzhang@seu.edu.cn
  *  功能：手动设置障碍、起点、终点；实时切换算法
  ******************************************************/
 
-测试结果：
-![Uploading A_star结果-1.png…]()
+## 测试结果：
+### case 1
+*** Result of A star
+![image](https://github.com/zxg519/theta_star/blob/main/A_star_result-1.png)
+*** result of Theta star
+![image](https://github.com/zxg519/theta_star/blob/main/theta_star_result-1.png)
 
+### case 2
+*** result of A*
+![image](https://github.com/zxg519/theta_star/blob/main/A_star_result-2.png)
+![image](../results/theta_star_result-2.png)
