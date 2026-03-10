@@ -1,7 +1,9 @@
 # theta_star
 ## introduction
-optimal path finding algorithm using theta*, which can vaoid the searching limitation in A* in regular grid.
-I used easyX to draw picture in this program.
+Optimal path finding algorithm using theta*, which can vaoid the searching direction limitation in A* in regular grids.
+—— programming language: C++
+—— lib used: EasyX
+—— algorithms compared: A* vs Theta*
 
 xgzhang@seu.edu.cn
 2026/03/10
