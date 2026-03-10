@@ -1,12 +1,12 @@
 # theta_star
 ## introduction
 Optimal path finding algorithm using theta*, which can vaoid the searching direction limitation in A* in regular grids.
-| description| values|
-|-------|-------------------|
+| description| values       |
+|------------|--------------|
 |Programming Language | C++ |
 |GUI Lib used| EasyX        |
 |algorithms compared| A* vs Theta* |
-|-------|------------------|
+
 
 xgzhang@seu.edu.cn <br>
 2026/03/10 <br>
