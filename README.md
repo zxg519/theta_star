@@ -4,9 +4,7 @@ Optimal path finding algorithm using theta*, which can vaoid the searching direc
 | description| values|
 |-------|-------------------|
 |Programming Language | C++ |
-|-------|-------------------|
 |GUI Lib used| EasyX        |
-|-------|-------------------|
 |algorithms compared| A* vs Theta* |
 |-------|------------------|
 
