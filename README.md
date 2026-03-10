@@ -24,4 +24,4 @@ xgzhang@seu.edu.cn
 ### case 2
 *** result of A*
 ![image](https://github.com/zxg519/theta_star/blob/main/A_star_result-2.png)
-![image](../results/theta_star_result-2.png)
+![image](https://github.com/zxg519/theta_star/blob/main/theta_star_result-2.png)
