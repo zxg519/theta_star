@@ -1,8 +1,8 @@
 # theta_star
 ## 1. Introduction
  This program compares the performance of A* and Theta*, in regular grid scenario. <br>
- ###(1) A*，disallow overpass the corner of Non‑passable grid;  
- ###(2) Theta*, disallow overpass the corner of Non‑passable grid;  
+ ### (1) A*，disallow overpass the corner of Non‑passable grid;  
+ ### (2) Theta*, disallow overpass the corner of Non‑passable grid;  
  You can manully set non-paasable grids, or directly load maps stored in ../mapfiles, and you can save the map you set to file.  You can manully set the start grid and the end grid.   
  When you press [A*], it will execute A* algorithm, and draw the result on the map. When you press [Theta*], it will execute Theta* algorithm, and draw the result on the map.  
  
